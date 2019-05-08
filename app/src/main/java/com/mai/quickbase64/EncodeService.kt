@@ -7,8 +7,6 @@ import android.content.Intent
 import android.os.IBinder
 import android.service.quicksettings.Tile
 import android.util.Base64
-import android.util.Log
-import android.widget.Toast
 import android.service.quicksettings.TileService as BaseTitleService
 
 class EncodeService : BaseTitleService() {
