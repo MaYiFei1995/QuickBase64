@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickBase64</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+</resources>
